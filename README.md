@@ -1,6 +1,10 @@
 # ASNlookup
 This tool will search easily ASN names over a tool called metabigor (https://github.com/j3ssie/metabigor.git).
 
+Note: This repository is a modification of *metabigor* for easily perform an ASN name lookup. 
+
+You can combine this tool with others for perform an advanced ASN Lookup (Perfect for Bounty Hunting)
+
 - [Installation](https://github.com/S4njer/ASNlookup/blob/main/README.md#installation)
 - [Use](https://github.com/S4njer/ASNlookup/blob/main/README.md#use)
 
